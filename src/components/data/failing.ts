@@ -2,7 +2,7 @@ export const failingTypedData = {
   domain: {
     name: "ZeroLedgerForwarder",
     version: "1",
-    chainId: 84532,
+    chainId: 1,
     verifyingContract: "0xa36d914ef2044f60a7c0325704f177bf59bec2fa",
   },
   types: {
